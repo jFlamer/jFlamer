@@ -1,6 +1,11 @@
-## Hello there 👋
-### Moja strona
-https://jflamer.github.io
-## General Kenobi
-**Jeszcze gdy chodziłem do podstawówki, to był tam taki Paweł, i ja jechałem na rowerze, i go spotkałem, i potem jeszcze pojechałem do biedronki na lody, i po drodze do domu wtedy jeszcze, już do domu pojechałem.**
+# Hello there 👋
+Feel welcome to visit my [site](https://jflamer.github.io/)
+
+## About me
+I am currently a student👩‍🎓 at [AGH](https://www.agh.edu.pl/) University of Science and Technology in Krakow,  
+member of [Code Industry AGH](https://github.com/AGH-Code-Industry)
+
+## My projects
+1. [Colorfull nonogram solver](https://github.com/AGH-Narzedzia-Informatyczne-2023-2024/nonogram-solver-backend)
+2. [Butcher of Monsters](https://github.com/AGH-Code-Industry/butcher-of-monsters-monster)
  
