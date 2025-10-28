@@ -31,6 +31,9 @@
 
 ## 💻 Featured Projects
 
+### 🏃‍♀️ [Fit2Beat - Where music fits the people] (https://github.com/margaj366/Hackyeah2025)
+> HackYeah2025 project - an **application** allowing users to create a workout routine on base of their favourite playlist
+
 ### 🐍 [OOPsy – Educational OOP Language](https://github.com/jFlamer/OOPsy-oop_learning_language)
 > A custom programming language built with **Python** and **ANTLR4** to teach Object-Oriented Programming.  
 > 🧠 Features a compiler, interpreter, and error visualization interface.
