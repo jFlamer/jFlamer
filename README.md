@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm **Jagoda Flejmer**  
+# 🫐 Hello, I'm **Jagoda Flejmer**  
 
 🎓 *Computer Science and Intelligent Systems student @ AGH University of Science and Technology, Kraków*  
 💡 Passionate about **software engineering**, **data science**, and exploring the connection between **technology and human behavior**.  
@@ -29,7 +29,7 @@
 
 ---
 
-## 💻 Featured Projects
+## Featured Projects
 
 ### 🏃‍♀️ [Fit2Beat - Where music fits the people](https://github.com/margaj366/Hackyeah2025)
 > HackYeah2025 project - an **application** allowing users to create a workout routine on base of their favourite playlist
