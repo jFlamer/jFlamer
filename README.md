@@ -31,6 +31,9 @@
 
 ## Featured Projects
 
+###⚡ [SmartCharge - UK](https://carchargingstatsandcharge.onrender.com)
+Data visualization project - an interactive dashboard allowing users to monitor and analyze electric vehicle charging statistics and trends in the UK
+
 ### 🏃‍♀️ [Fit2Beat - Where music fits the people](https://github.com/margaj366/Hackyeah2025)
 > HackYeah2025 project - an **application** allowing users to create a workout routine on base of their favourite playlist
 
